@@ -19,7 +19,7 @@
 - Develop products with artificial intelligence in mind to keep pace with today's data-driven products
 - Facilitate easy maintenance of the software
 
-- The app includes a microservice development framework that decouples the persistence layer/file-system layer from the data, business logic, and transport mechanisms. This boosts productivity across teams and allows developers to focus on the business contract.
+- The app includes a microservice development framework that separates the persistence layer or file-system layer from the data, business logic, and transport mechanisms. It can boost productivity across teams and company staff to focus on the business contract.
 - Compatible with Go and Node.js and tested with various databases like TimescaleDB, PostgreSQL, MongoDB, and InfluxDB
 - Microservices APIs use HTTP protocol for transportation, but for services requiring event handling and processing, inter-service communication using NATS message broker or Kafka for reliability is recommended.
 
